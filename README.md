@@ -9,7 +9,7 @@ Death Note Calculator — A dark-themed, anime-inspired calculator built with HT
 - Easy to customize (fonts, colors, layout)
 
 ## 📂 Project Structure
-deathnote-calculator/
+/ deathnote-calculator
   - index.html
   - style.css
   - script.js
