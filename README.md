@@ -1,8 +1,5 @@
-# deathnote-calculator
+# Death Note Calculator
 Death Note Calculator — A dark-themed, anime-inspired calculator built with HTML, CSS, and JavaScript. Features glowing red effects, smooth interactions, and a customizable design. Lightweight, fast, and easy to modify for beginners or fans of Death Note.
-# 🖤 Death Note Calculator
-
-A dark, anime-inspired calculator styled after the **Death Note** theme. Built with HTML, CSS, and JavaScript, featuring red glow effects, smooth interactions, and a fully customizable design.
 
 ## ✨ Features
 - Dark gothic UI inspired by *Death Note*
