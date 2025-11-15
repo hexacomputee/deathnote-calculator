@@ -13,9 +13,9 @@ A dark, anime-inspired calculator styled after the **Death Note** theme. Built w
 
 ## 📂 Project Structure
 deathnote-calculator/
-│── index.html
-│── style.css
-└── script.js
+  - index.html
+  - style.css
+  - script.js
 
 ## 🚀 How to Run
 1. Download or clone this repository  
